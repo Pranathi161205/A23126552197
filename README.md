@@ -229,10 +229,12 @@ npm start
 ```
 
 Server starts on:
+<img width="311" height="93" alt="image" src="https://github.com/user-attachments/assets/5a27725f-3bc1-48bf-933b-ce9090b06287" />
 
 ```text
 http://localhost:3000
 ```
+<img width="353" height="80" alt="image" src="https://github.com/user-attachments/assets/b9a3af04-8ab9-4b27-9fbf-c2917c8afd98" />
 
 ---
 
@@ -258,16 +260,9 @@ vehicle-scheduler-be/
 
 ---
 
-## Sample Output
+## Output
 
-```json
-{
-  "depotId": 3,
-  "mechanicHours": 188,
-  "totalImpact": 194,
-  "selectedTaskCount": 37
-}
-```
+<img width="959" height="274" alt="image" src="https://github.com/user-attachments/assets/54914a18-4b11-40d3-93f7-b71542a43de0" />
 
 ---
 

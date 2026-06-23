@@ -260,8 +260,11 @@ vehicle-scheduler-be/
 
 ---
 
-## Output
-
+## Output of http://4.224.186.213/evaluation-service/vehicles
+<img width="524" height="409" alt="image" src="https://github.com/user-attachments/assets/9e3db186-7b31-46e3-8150-63ab71202cde" />
+<img width="512" height="404" alt="image" src="https://github.com/user-attachments/assets/1c4ddba0-b022-4663-a619-96f25f89605f" />
+<img width="493" height="410" alt="image" src="https://github.com/user-attachments/assets/1e717197-5421-4211-9a85-34f314dd5dfb" />
+## Output of http://localhost:3000/api/schedule
 <img width="959" height="274" alt="image" src="https://github.com/user-attachments/assets/54914a18-4b11-40d3-93f7-b71542a43de0" />
 <img width="347" height="445" alt="image" src="https://github.com/user-attachments/assets/8721700a-8428-4a9a-a65a-156f291238bb" />
 <img width="311" height="471" alt="image" src="https://github.com/user-attachments/assets/e33106da-c6b2-4960-8d50-06600c453909" />

@@ -263,6 +263,8 @@ vehicle-scheduler-be/
 ## Output
 
 <img width="959" height="274" alt="image" src="https://github.com/user-attachments/assets/54914a18-4b11-40d3-93f7-b71542a43de0" />
+<img width="347" height="445" alt="image" src="https://github.com/user-attachments/assets/8721700a-8428-4a9a-a65a-156f291238bb" />
+<img width="311" height="471" alt="image" src="https://github.com/user-attachments/assets/e33106da-c6b2-4960-8d50-06600c453909" />
 
 ---
 
